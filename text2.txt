@@ -1,0 +1,5 @@
+This file contains text-1.
+- oranges
+- apples
+- strawberries
+- blueberries

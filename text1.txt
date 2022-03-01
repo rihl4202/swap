@@ -1,0 +1,5 @@
+This file contains text-2.
+- string beans
+- pickles
+- squash
+- carrots
